@@ -13,11 +13,10 @@ Each source file inside the `src/` directory maps out a specific milestone durin
 *   **`03_basic_bank_system.cpp`**: Developing stateful systems using `while` logic matrices and conditional control routing to securely manage dummy account transactions.
 *   **`04_tic_tac_toe.cpp`**: Transitioning to multi-dimensional coordinate spaces by managing a `3x3 array grid` alongside real-time coordinate verification and turn-based loop processing.
 *   **`05_first_sfml_window.cpp`**: Breaking past console boundaries. Setting up the SFML 3 framework to successfully hook into the hardware desktop environment and maintain an open window render loop.
-*   **`06_calculator.cpp`**: Building a multi-functional evaluation tool using structured functions and robust mathematical arithmetic loops.
+*   **`06_pythagorean_calculator.cpp`**: Building a multi-functional evaluation tool using structured functions and robust mathematical arithmetic loops.
 *   **`07_rock_paper_scissors.cpp`**: Implementing pseudo-random generation logic to create a game engine matching human inputs against dynamic CPU decisions.
 *   **`08_number_guessing.cpp`**: Tracking user try states within bounded search conditions, creating numerical limit logic systems.
 
-*(Note: If you named files 6, 7, and 8 differently on your computer, just update the filenames in the bullets above to match!)*
 
 ---
 
